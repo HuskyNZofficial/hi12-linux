@@ -1,8 +1,8 @@
-# Install lunix on your Hi12
+# Install lunix on your Chuwi Hi12
 
 
 #1.
-    Install a linux distro the one i used was linux mint but any debian based distro should work.
+    Install a linux distro the one I used was linux mint but any debian based distro should work.
     
     1.A
       Flash the linux mint iso to a usb
