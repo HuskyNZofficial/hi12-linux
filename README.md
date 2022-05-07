@@ -2,14 +2,14 @@
 
 
 #1.
-    Install a linux distro the one i used was lunix mint but any debian based distro should work.
+    Install a linux distro the one i used was linux mint but any debian based distro should work.
     
     1.A
-      Flash the lunix mint iso to a usb
+      Flash the linux mint iso to a usb
     1.B
       Boot the usb but pressing f7 on you chuwi on boot
     1.C
-      Istall lunix mint like any other computer
+      Istall linux mint like any other computer
      
 #2.
   Install the Liquorix kernal
