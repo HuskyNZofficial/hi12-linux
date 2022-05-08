@@ -17,6 +17,7 @@
     2.A You will need you phone to hotspot becase at the time of this writing the default kernal has broken wifi drivers
     
     2.B Install
+        (On other os's not lunix mint you may need to install software-properties-common using this command sudo apt install software-properties-common)
     
 
       Debian Prerequisites:
